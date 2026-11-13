@@ -1,0 +1,107 @@
+[
+  {
+    "instrument": "violin-solo",
+    "source": "Strings/Solo Violin/Arco Vib/LLVln_ArcoVib_C4_f.wav",
+    "file": "LLVln_ArcoVib_C4_f.wav"
+  },
+  {
+    "instrument": "violin-solo",
+    "source": "Strings/Solo Violin/Arco Vib/LLVln_ArcoVib_C5_f.wav",
+    "file": "LLVln_ArcoVib_C5_f.wav"
+  },
+  {
+    "instrument": "violin-section",
+    "source": "Strings/Violin Section/susVib/VlnEns_susVib_C4_v2.wav",
+    "file": "VlnEns_susVib_C4_v2.wav"
+  },
+  {
+    "instrument": "violin-section",
+    "source": "Strings/Violin Section/susVib/VlnEns_susVib_G4_v2.wav",
+    "file": "VlnEns_susVib_G4_v2.wav"
+  },
+  {
+    "instrument": "viola-section",
+    "source": "Strings/Viola Section/susvib/ViolaEns_susvib_C4_v2_1.wav",
+    "file": "ViolaEns_susvib_C4_v2_1.wav"
+  },
+  {
+    "instrument": "viola-section",
+    "source": "Strings/Viola Section/susvib/ViolaEns_susvib_G4_v2_1.wav",
+    "file": "ViolaEns_susvib_G4_v2_1.wav"
+  },
+  {
+    "instrument": "cello-section",
+    "source": "Strings/Cello Section/susvib/susvib_C3_v3_1.wav",
+    "file": "susvib_C3_v3_1.wav"
+  },
+  {
+    "instrument": "cello-section",
+    "source": "Strings/Cello Section/susvib/susvib_G3_v3_1.wav",
+    "file": "susvib_G3_v3_1.wav"
+  },
+  {
+    "instrument": "horn",
+    "source": "Brass/F Horn/sus/MOHorn_sus_C3_v2_1.wav",
+    "file": "MOHorn_sus_C3_v2_1.wav"
+  },
+  {
+    "instrument": "horn",
+    "source": "Brass/F Horn/sus/MOHorn_sus_D4_v1_1.wav",
+    "file": "MOHorn_sus_D4_v1_1.wav"
+  },
+  {
+    "instrument": "oboe",
+    "source": "Woodwinds/Oboe/Sus/Oboe_Sus_D4_v3_Main.wav",
+    "file": "Oboe_Sus_D4_v3_Main.wav"
+  },
+  {
+    "instrument": "oboe",
+    "source": "Woodwinds/Oboe/Sus/Oboe_Sus_F4_v3_Main.wav",
+    "file": "Oboe_Sus_F4_v3_Main.wav"
+  },
+  {
+    "instrument": "harp",
+    "source": "Strings/Harp/KSHarp_C3_mf.wav",
+    "file": "KSHarp_C3_mf.wav"
+  },
+  {
+    "instrument": "harp",
+    "source": "Strings/Harp/KSHarp_C5_mf.wav",
+    "file": "KSHarp_C5_mf.wav"
+  },
+  {
+    "instrument": "violin-section",
+    "source": "Strings/Violin Section/susVib/VlnEns_susVib_G2_v2.wav",
+    "file": "VlnEns_susVib_G2_v2.wav"
+  },
+  {
+    "instrument": "violin-section",
+    "source": "Strings/Violin Section/susVib/VlnEns_susVib_D3_v2.wav",
+    "file": "VlnEns_susVib_D3_v2.wav"
+  },
+  {
+    "instrument": "viola-section",
+    "source": "Strings/Viola Section/susvib/ViolaEns_susvib_C2_v2_1.wav",
+    "file": "ViolaEns_susvib_C2_v2_1.wav"
+  },
+  {
+    "instrument": "viola-section",
+    "source": "Strings/Viola Section/susvib/ViolaEns_susvib_D3_v2_1.wav",
+    "file": "ViolaEns_susvib_D3_v2_1.wav"
+  },
+  {
+    "instrument": "cello-section",
+    "source": "Strings/Cello Section/susvib/susvib_G1_v3_1.wav",
+    "file": "susvib_G1_v3_1.wav"
+  },
+  {
+    "instrument": "cello-section",
+    "source": "Strings/Cello Section/susvib/susvib_D2_v3_1.wav",
+    "file": "susvib_D2_v3_1.wav"
+  },
+  {
+    "instrument": "oboe",
+    "source": "Woodwinds/Oboe/Sus/Oboe_Sus_D3_v3_Main.wav",
+    "file": "Oboe_Sus_D3_v3_Main.wav"
+  }
+]

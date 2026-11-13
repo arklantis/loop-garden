@@ -1,0 +1,2 @@
+importScripts('vendor/lame.min.js');
+self.onmessage=({data})=>{try{const enc=new lamejs.Mp3Encoder(2,data.rate,192),chunks=[];for(let i=0;i<data.left.length;i+=1152){const a=enc.encodeBuffer(data.left.subarray(i,i+1152),data.right.subarray(i,i+1152));if(a.length)chunks.push(new Uint8Array(a))}chunks.push(new Uint8Array(enc.flush()));self.postMessage({chunks})}catch(e){self.postMessage({error:e.message})}};
